@@ -39,7 +39,7 @@
     <dependency>
       <groupId>de.bechte.junit</groupId>
       <artifactId>junit-hierarchicalcontextrunner</artifactId>
-      <version>4.12.3</version>
+      <version>4.12.1</version>
       <scope>test</scope>
     </dependency>
     <dependency>
