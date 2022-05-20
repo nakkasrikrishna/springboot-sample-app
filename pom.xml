@@ -95,7 +95,7 @@
   </scm>
 
   <build>
-    <finalName>app 500.0</finalName>
+    <finalName>app 5000.0</finalName>
     <resources>
       <resource>
         <directory>src/main/resources</directory>
